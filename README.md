@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is Ashwin. I am good at Problem solving, python, java, data structures and algorithms, oop.
 
 <!--
 **Ashwinph7/Ashwinph7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
